@@ -518,3 +518,4 @@ Replicate_Do_DB               |
 ## 文章总结
 
 通过上面的演示，你已经基本掌握了主从复制的原理、配置流程。针对主从复制还有很多细节，由于篇幅问题后期会持续更新。
+> 专注于PHP、MySQL、Linux和前端开发，感兴趣的感谢点个关注哟！！！文章整理在[GitHub](https://github.com/bruceqiq/code_study),主要包含的技术有PHP、Redis、MySQL、JavaScript、HTML&CSS、Linux、Java、Golang、Linux和工具资源等相关理论知识、面试题和实战内容。
