@@ -17,22 +17,30 @@ class Person {
     public $name;
 
     public function getName() {
+    	var_dump($this);
         echo $this->name;
     }
 
 }
 
 $p = new Person();
-
 $p2 = new Person();
 
 $p->name = "小红";
-
 $p2->name = "小明";
 
 $p->getName();  // 小红
-
 $p2->getName();  // 小明
+/**
+object(Person)#1 (1) {
+  ["name"]=>
+  string(6) "小红"
+}
+object(Person)#2 (1) {
+  ["name"]=>
+  string(6) "小明"
+}
+**/
 ```
 
 ## self使用
