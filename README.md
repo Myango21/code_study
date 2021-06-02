@@ -28,8 +28,3 @@
 
 
 ![gh_b5e1c7bb8d27_258](https://gitee.com/bruce_qiq/picture/raw/master/2021-6-1/1622558158674-gh_b5e1c7bb8d27_258.jpg)
-
-### 如何贡献
-
-如果你也是一个技术爱好者，希望将你的文章分享到本仓库，让更多的人看到你文章，可以通过下方二维码联系我。
-![WechatIMG393](https://gitee.com/bruce_qiq/picture/raw/master/2021-4-17/1618652744310-WechatIMG393.jpeg)
