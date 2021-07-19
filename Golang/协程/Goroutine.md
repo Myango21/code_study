@@ -67,16 +67,16 @@ import (
 var wg sync.WaitGroup
 
 func Hello(i int) {
-	defer wg.Done() // goroutine结束就登记-1
+	defer wg.Done() // 减少WaitGroup计数器的值，应在线程的最后执行。
 	fmt.Println("Hello Goroutine!", i)
 }
 
 func main() {
 	for i := 0; i < 10; i++ {
-		wg.Add(1) // 启动一个goroutine就登记+1
+		wg.Add(1) // 向协程计数器加1。
 		go Hello(i)
 	}
-	wg.Wait() // 等待所有登记的goroutine都结束
+	wg.Wait() // 阻塞协程，直到协程计数器为0。
 	fmt.Println("所有的协程已经结束了，主线程可以结束了。")
 }
 ```
