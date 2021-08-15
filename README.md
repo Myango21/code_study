@@ -5,12 +5,20 @@
 ### 学习大纲
 
 #### MySQL
+![MySQL](https://gitee.com/bruce_qiq/picture/raw/master/2021-8-15/1629035885274-MySQL.png)
 
 #### PHP
+![PHP](https://gitee.com/bruce_qiq/picture/raw/master/2021-8-15/1629035894952-PHP.png)
 
 #### Redis
+![Redis](https://gitee.com/bruce_qiq/picture/raw/master/2021-8-15/1629035875200-Redis.png)
+
+#### Docker
+![docker](https://gitee.com/bruce_qiq/picture/raw/master/2021-8-15/1629035904998-docker.png)
 
 #### golang
+
+### 博客平台
 
 | 博客平台| 博客地址 | 
 | :---: | :---: | 
@@ -20,6 +28,8 @@
 | segmentfault | [跳转地址](https://segmentfault.com/u/sanrenqi) |
 | CSDN | [跳转地址](https://blog.csdn.net/qq_27681741?spm=1000.2115.3001.5343) |
 | 掘金 | [跳转地址](https://juejin.cn/user/2207475077482424) |
+
+### 公众号
 
 ![扫码_搜索联合传播样式-标准色版 (1)](https://gitee.com/bruce_qiq/picture/raw/master/2021-4-17/1618652349624-%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E6%A0%87%E5%87%86%E8%89%B2%E7%89%88%20(1).png)
 
