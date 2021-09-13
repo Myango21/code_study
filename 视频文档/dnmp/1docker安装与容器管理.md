@@ -1,3 +1,5 @@
+> 视频地址：https://mp.weixin.qq.com/s/wQzA2th4dWiTsDRWzYFY1w
+> 代码仓库：https://github.com/bruceqiq/php_dnmp
 ### docker安装
 
 一、 官方安装脚本
