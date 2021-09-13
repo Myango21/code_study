@@ -68,9 +68,7 @@ docker-compose --version
 
 ### 启动容器
 
-一、 启动容器
-
-二、 操作容器
+一、 操作容器
 ```shel
 # 启动容器
 docker start redis;
@@ -80,4 +78,9 @@ docker restart redis;
 docker stop redis;
 # 删除容器
 docker rm redi;
+```
+
+二、 进入容器
+````shell
+docker exec -it redis /bin/sh
 ```
