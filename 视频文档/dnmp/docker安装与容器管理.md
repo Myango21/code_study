@@ -81,6 +81,6 @@ docker rm redi;
 ```
 
 二、 进入容器
-````shell
+```shell
 docker exec -it redis /bin/sh
 ```
