@@ -6,6 +6,8 @@
 
 ### 学习大纲
 
+下面是个人在学习各种技术，大致总结的一个学习大纲。后期也会不断的完善。
+
 #### MySQL
 ![MySQL](https://gitee.com/bruce_qiq/picture/raw/master/2021-8-15/1629035885274-MySQL.png)
 
