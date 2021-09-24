@@ -8,7 +8,7 @@ OPcache 通过将 PHP 脚本预编译的字节码存储到共享内存中来提�
 ![Snipaste_2021-09-24_23-18-32](https://gitee.com/bruce_qiq/picture/raw/master/2021-9-24/1632496909208-Snipaste_2021-09-24_23-18-32.png)
 
 ### 使用opcache
-![Snipaste_2021-09-24_23-18-32](https://gitee.com/bruce_qiq/picture/raw/master/2021-9-24/1632496909208-Snipaste_2021-09-24_23-18-32.png)
+![Snipaste_2021-09-24_23-18-16](https://gitee.com/bruce_qiq/picture/raw/master/2021-9-24/1632496899073-Snipaste_2021-09-24_23-18-16.png)
 
 ## opcache配置说明
 ```php
