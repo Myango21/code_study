@@ -2,6 +2,8 @@
 
 本文将基于Centos7和lnmp环境搭建zabbix。zabbix安装的版本是5.4的版本，PHP的版本是7.3(这里需要注意一下，zabbix5.x的版本要求PHP的版本必须是>=7.2)，MySQL的版本是5.7。
 
+很多文章和官网都提及到了安装MySQL和PHP等环境。但是实际情况，很多时候服务端其实已经安装好了PHP和MySQL的环境，不需要安装PHP和MySQL环境了。所以本文也是基于这种情况下来搭建zabbix环境。
+
 ## 整体流程
 
 安装lnmp环境->安装zabbix服务端->安装zabbix客户端->配置zabbix前端->配置主机信息。
