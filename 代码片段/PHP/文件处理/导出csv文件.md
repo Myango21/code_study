@@ -8,7 +8,7 @@
  * @param array $tileArray， 一维数组
  * @param array $dataArray，二维数组
  */
-function export_excel($fileName, $tileArray = [], $dataArray = [])
+function exportCsv($fileName, $tileArray = [], $dataArray = [])
 {
     ini_set('memory_limit', '512M');
     ini_set('max_execution_time', 0);
@@ -33,4 +33,10 @@ function export_excel($fileName, $tileArray = [], $dataArray = [])
     flush();
     ob_end_clean();
 }
+
+exportCsv(["编号", "名称", "年龄"], [
+  [1, "张三", 12],
+  [2, "张三", 12],
+  [3, "张三", 12],
+]);
 ```
